@@ -1,2 +1,2 @@
 # Industrial-Training-Project
-# Gaurav Hooda, Sehaj Bhanot, DUshyant Kumar
+# Gaurav Hooda, Sehaj Bhanot, Dushyant Kumar
